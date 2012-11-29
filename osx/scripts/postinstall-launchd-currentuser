@@ -1,0 +1,3 @@
+#!/bin/sh
+
+mv /tmp/org.jenkins-ci.plist ~/Library/LaunchAgents/org.jenkins-ci.plist
